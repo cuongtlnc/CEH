@@ -37,6 +37,8 @@ Examples:
 - Shoulder surfing passwords
 - Misusing privileged access
 
+### Distribution attack
+
 ## Information Warfare
 Information warfare
 
